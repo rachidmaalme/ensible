@@ -1,2 +1,2 @@
 # CCNP
- This is CCNP cases' practice 
+ This is CCNP practice cases
